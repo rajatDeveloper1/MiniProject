@@ -7,7 +7,6 @@ The purpose of Be Strong is to motivate the indian youth in order to achieve the
 ## Authors
 
 - Rajat Kumar
-- Shikhar Saxena
 
   
 ## Documentation
