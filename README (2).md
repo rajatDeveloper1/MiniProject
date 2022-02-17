@@ -34,8 +34,7 @@ HTML, CSS...
 ## FAQ
 
 #### What is your Email id
-
-rk6568886@gmail.com
+rajatec98@gmail.com
 
 
 
